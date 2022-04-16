@@ -34,7 +34,7 @@
                         <archive>
                             <manifest>
                                 <addClasspath>true</addClasspath>
-                                <mainClass>com.timemachine.Publisher</mainClass>
+                                <mainClass>com.timemachine.multicast.Publisher</mainClass>
                             </manifest>
                         </archive>
                     </configuration>
